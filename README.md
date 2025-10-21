@@ -2,6 +2,7 @@
 
 **AIM:**
 
+
 *To verify Kirchhoff’s voltage law and Kirchhoff’s current law both theoretically and practically for a given DC circuit.*
 
 **APPARATUS REQUIRED:**
@@ -48,6 +49,8 @@
  *5.Reduce the RPS to its minimum value and switch OFF the supply.*
   
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
+ <img width="864" height="595" alt="image" src="https://github.com/user-attachments/assets/a2912fba-6c4f-4b55-b13c-68c5dc23d66c" />
+
 
 **RESULT:**
 
